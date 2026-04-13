@@ -1,4 +1,4 @@
-# flyonthemoon-js-cleo-redux
+# flyonthemoon
 [CLEO Redux 1.4.3] Noclip cheat script for: 
 
 - Grand Theft Auto III - The Definitive Edition 
@@ -13,7 +13,7 @@
 
 Были похожие скрипты на оригинальную игру, но я не решился их скачивать, т.к. я посчитал что будут не совместимы. 
 
-Управление:
+#Управление:
 
 - F2 - Включение и Отключение
 
